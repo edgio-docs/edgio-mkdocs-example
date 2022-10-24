@@ -6,7 +6,7 @@
     "server": "mkdocs serve",
     "edgio:dev": "edgio dev",
     "edgio:build": "edgio build",
-    "edgio:deploy": "edgio deploy",
+    "edgio:deploy": "edgio deploy"
   },
   "devDependencies": {
     "@edgio/cli": "^5.0.4-next-1666625296-59d2155.0",
